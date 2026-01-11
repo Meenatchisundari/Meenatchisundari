@@ -23,21 +23,6 @@ Hi, I’m Meenatchi 👋<br><br>I’m an AI Engineer and Research Assistant base
 ---
 
 
-## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meenatchisundari&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meenatchisundari&theme=github_dark)
-
-## 🧩 Language Breakdown
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meenatchisundari&theme=github_dark)
-
-
-
----
-
-
-
-
 ### ✨ “Clarity over complexity. Always.”
  
 
-[![](https://visitcount.itsvg.in/api?id=Meenatchisundari&icon=0&color=0)](https://visitcount.itsvg.in)
